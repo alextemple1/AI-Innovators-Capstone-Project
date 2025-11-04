@@ -1,3 +1,2 @@
-# AI-Innovators-Capstone-Project
-Roles 
+# AI-Innovators-Capstone-Project 
 Alex Temple - Project Manager
