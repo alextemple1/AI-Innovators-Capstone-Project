@@ -1,0 +1,5 @@
+Problem statement - Motor vehicle accidents often leave victims unable to call for help, causing dangerous delays in emergency response. There is a need for an automated AI-driven system that detects a crash and immediately alerts 911 to ensure faster, potentially life-saving assistance.
+
+Product concept - AI will continuously monitor sensor data (tracking sudden deceleration and impact force) to detect when a collision occurs. Once detected, the system will automatically contact 911 with the vehicle’s location and crash details, ensuring rapid emergency response without requiring user action.
+
+How AI is applied - The system uses a mobile AI module that is in the car. The program monitors sensor data to detect crash-level impacts in real time. When a collision is confirmed, it automatically sends the vehicle’s location and critical details to 911 for rapid emergency response saying that it got hit. 
