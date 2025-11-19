@@ -1,5 +1,15 @@
-Decide what type of AI/ML will be used (e.g., classification, NLP, regression, clustering) 
-Research datasets — real or simulated 
-Discuss model limitations and potential risks
+Decide what type of AI/ML will be used (e.g., classification, NLP, regression, clustering):
+Classification. AI will determine whether incoming sensor data indicates a crash or non-crash event. The AI will analyze data such as deceleration patterns, impact force, and acceleration.
 
-Chosen AI method - Data acquisition plan (source, type, ethics) - Anticipated limitations or constraints
+Research datasets — real or simulated:
+Simulated and real. AI can start off learning through a variety of patterns set up by simulated tests. When the AI is put into action, it can continue to learn through its experiences to improve and adapt.
+
+
+Discuss model limitations and potential risks
+Model Limitation: 
+When the AI is in early testing, it might either detect accidents that might just be a bump in the road, or not detect an accident that doesn’t think it is significant enough to warrant action.
+Models may not generalize well to real accidents.
+The model may misclassify complex or noisy sensor patterns.
+Potential Risks:
+Automatically tracking information of drivers. If mishandled, this could lead to privacy breaches or unauthorized tracking.
+Overreliance of users could be a problem. Drivers or passengers may assume emergency response is guaranteed.
