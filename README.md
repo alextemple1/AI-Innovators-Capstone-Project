@@ -1,6 +1,6 @@
 # AI-Innovators-Capstone-Project 
 Alex Temple - Project Manager,
-Seth Bickham - AI Ethicist,
+Seth Bickham - AI Ethicist
 
 Ideas:
 
