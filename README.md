@@ -2,6 +2,36 @@
 Alex Temple - Project Manager,
 Seth Bickham - AI Ethicist
 
+Product Description:
+
+Pitch Structure:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Ideas:
 
 Transportation, if the user gets in a wreck, An AI algorithm sends an automatic alert to 911 and emergency services.
