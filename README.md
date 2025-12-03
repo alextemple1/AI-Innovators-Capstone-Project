@@ -4,10 +4,10 @@ Seth Bickham - AI Ethicist
 
 Product Description:
 
-Pitch Structure:
+Pitch Structure: title page → problem → solution → AI → market → ethics
 
 
-
+Final Project Summary:
 
 
 
