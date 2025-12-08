@@ -1,19 +1,6 @@
 # AI-Innovators-Capstone-Project 
-Alex Temple - Project Manager,
-Seth Bickham - AI Ethicist
 
-Product Description: Our product is an in-vehicle AI crash-detection system. It uses an onboard mobile AI module integrated into the car to continuously monitor sensor data in real time. By analyzing signals such as sudden deceleration, impact forces, and other crash-level indicators, the AI can accurately determine when a collision has occurred. When a crash is detected, the system automatically contacts 911 and transmits the vehicle’s precise location along with relevant crash details. This ensures rapid emergency response—even if the occupants are unable to call for help—providing an additional layer of safety without requiring any user action.
-
-
-Pitch Structure: title page → problem → solution → AI → market → ethics
-
-
-Final Project Summary:
-
-
-
-
-
+[AI Innovators Capstone Project Final.pdf](https://github.com/user-attachments/files/24021442/AI.Innovators.Capstone.Project.Final.pdf)
 
 
 
