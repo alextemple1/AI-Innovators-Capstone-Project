@@ -8,7 +8,7 @@ Product Description: Our product is an in-vehicle AI crash-detection system. It 
 Pitch Structure: Title page → problem → solution → How it works → Types of AI  → Ethics → Innovation → Market → Ask → Sources
 
 
-Final Project Summary: This project introduced a pitch for a AI powered vehicle module that  monitors sensor data to detect crash-level impacts in real time. This project targets a growing billion dollar market driven by demand for advanced automotive safety and connected vehicle technologies. The final pitch was created to support funding efforts for ImpactIntel, the business developing this solution.
+Final Project Summary: This project introduced a pitch for a AI powered vehicle module that  monitors sensor data to detect crash-level impacts in real time. This project targets a growing billion dollar market driven by demand for advanced automotive safety and connected vehicle technologies. The final pitch was created to support funding efforts for ImpactIntel, the business developing this solution. ImpactIntel is seeking $500,000 for 10% equity in ImpactIntel.
 
 
 
