@@ -1,4 +1,4 @@
-# AI-Innovators-Capstone-Project 
+# AI-Innovators-Capstone-Project - Impact Intel (Car Crash AI) 
 Alex Temple - Project Manager,
 Seth Bickham - AI Ethicist
 
